@@ -1455,13 +1455,22 @@
           "hint": "我记着呢"
         }
       ],
-      "touch": [
-        {
-          "label": "被戳了一下",
-          "amount": "哎",
-          "hint": "帽子差点掉"
-        }
-      ]
+      "touch": {
+        "hair": [
+          {
+            "label": "帽穗被碰了",
+            "amount": "哎",
+            "hint": "帽子差点掉"
+          }
+        ],
+        "body": [
+          {
+            "label": "被戳了一下",
+            "amount": "唔",
+            "hint": "面包剑差点掉了"
+          }
+        ]
+      }
     },
     "opencode": {
       "inactive": [
@@ -1873,13 +1882,22 @@
           "hint": "我在数着"
         }
       ],
-      "touch": [
-        {
-          "label": "被碰了一下",
-          "amount": "……",
-          "hint": "别戳发夹，会歪"
-        }
-      ]
+      "touch": {
+        "hair": [
+          {
+            "label": "发夹被碰了",
+            "amount": "……",
+            "hint": "别戳发夹，会歪"
+          }
+        ],
+        "body": [
+          {
+            "label": "碰了碰羽翼",
+            "amount": "唔",
+            "hint": "羽毛会炸开"
+          }
+        ]
+      }
     },
     "seedance": {
       "inactive": [
