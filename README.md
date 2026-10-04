@@ -1,10 +1,13 @@
 # BalancePet Appearances
 
-    ✓ 下载量
-    ✗ Forks —— 服务返回错误徽章
-    ✗ 版本 —— 服务返回错误徽章
-    ✗ Stars —— The SSL connection could not be established, see inner exception.
 ![下载量](https://img.shields.io/github/downloads/GoldenMoon-cell/BalancePet-Pets/total?label=%E4%B8%8B%E8%BD%BD%E9%87%8F&color=2ea043)
+![Forks](https://img.shields.io/github/forks/GoldenMoon-cell/BalancePet-Pets?label=Forks&color=2ea043)
+![版本](https://img.shields.io/github/v/tag/GoldenMoon-cell/BalancePet-Pets?label=%E7%89%88%E6%9C%AC&color=2ea043)
+![Stars](https://img.shields.io/github/stars/GoldenMoon-cell/BalancePet-Pets?label=Stars&color=2ea043)
+
+
+
+
 
 Appearance packages for [BalancePet](https://github.com/GoldenMoon-cell/BalancePet).
 
