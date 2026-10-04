@@ -1,5 +1,9 @@
 # BalancePet Appearances
 
+[![下载量](https://img.shields.io/github/downloads/GoldenMoon-cell/BalancePet-Pets/total?label=%E4%B8%8B%E8%BD%BD%E9%87%8F&color=2ea043)](https://github.com/GoldenMoon-cell/BalancePet-Pets/releases)
+[![最新版本](https://img.shields.io/github/v/release/=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&color=2ea043)](https://github.com/GoldenMoon-cell/BalancePet-Pets/releases/latest)
+[![Stars](https://img.shields.io/github/stars/=Stars&color=2ea043)](https://github.com/GoldenMoon-cell/BalancePet-Pets/stargazers)
+
 Appearance packages for [BalancePet](https://github.com/GoldenMoon-cell/BalancePet).
 
 An appearance is the character BalancePet draws. Installing one adds it to the
@@ -124,3 +128,4 @@ Do not submit artwork whose copyright or licence does not permit redistribution.
 BalancePet's own character references are attributed in its
 `THIRD_PARTY_NOTICES.md`; an appearance contributed here must be yours to license
 or carry a licence that allows it.
+
