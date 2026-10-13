@@ -4,6 +4,7 @@
 
 | 版本 | 日期 |
 |---|---|
+| [形象 1.2.0](https://github.com/GoldenMoon-cell/BalancePet-Pets/releases/tag/skins-1.2.0) | 2026-10-13 |
 | [Appearances 1.1.0](https://github.com/GoldenMoon-cell/BalancePet-Pets/releases/tag/skins-1.1.0) | 2026-10-02 |
 | [Appearances 1.0.1](https://github.com/GoldenMoon-cell/BalancePet-Pets/releases/tag/skins-1.0.1) | 2026-10-01 |
 | [形象 1.0.0](https://github.com/GoldenMoon-cell/BalancePet-Pets/releases/tag/skins-1.0.0) | 2026-10-01 |

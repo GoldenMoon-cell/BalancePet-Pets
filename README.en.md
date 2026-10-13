@@ -47,9 +47,11 @@ what remains, and it is what the window shows before anything is installed.
 | `pet.gpt-image2` | GPT Image 2 小墨龙「玄珏」 | GPT Image 2 Ink Dragon "Xuanjue" |
 | `pet.llama` | Llama 小羊驼「绒眠」 | Llama Alpaca "Rongmian" |
 | `pet.mimo` | MiMo 小兔码师「橙析」 | MiMo Bunny Coder "Chengxi" |
+| `pet.mistral` | Mistral 小猫骑士「麦霜」 | Mistral Cat Knight "Maishuang" |
 | `pet.opencode` | OpenCode 小码灵「墨枢」 | OpenCode Code Sprite "Moshu" |
 | `pet.perplexity` | Perplexity 小探灯「青鉴」 | Perplexity Little Lantern "Qingjian" |
 | `pet.seedance` | Seedance 小星晶「澄芽」 | Seedance Little Star Crystal "Chengya" |
+| `pet.zcode` | ZCode 小蓝图「蒙眠」 | ZCode Little Blueprint "Mengmian" |
 
 Every appearance BalancePet draws is published here, including DeepSeek 小鲸鱼「澜汐」
 and ChatGPT 小白龙「霁珑」, which the application carried inside its own installer

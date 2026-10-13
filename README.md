@@ -41,6 +41,7 @@ BalancePet 的形象包都在这里发布。形象就是桌宠画出来的那个
 | `pet.perplexity` | Perplexity 小探灯「青鉴」 | Perplexity Little Lantern "Qingjian" |
 | `pet.rwkv` | RWKV 小夜鸦「夜翎」 | RWKV Little Raven "Yeling" |
 | `pet.seedance` | Seedance 小星晶「澄芽」 | Seedance Little Star Crystal "Chengya" |
+| `pet.zcode` | ZCode 小蓝图「蒙眠」 | ZCode Little Blueprint "Mengmian" |
 
 BalancePet 画的每一套形象都在这里发布，包括 v1.4.3 之前随安装包分发的 DeepSeek 小鲸鱼
 「澜汐」和 ChatGPT 小白龙「霁珑」。唯一不发布的是内置占位形象：它是什么都没装时窗口画的
