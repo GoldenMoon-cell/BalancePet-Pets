@@ -85,9 +85,13 @@ assets/pets/<style>/clicked.png
 assets/pets/<style>/codex-working.png
 assets/pets/<style>/codex-done.png
 assets/pets/<style>/inactive.png
+assets/pets/<style>/logo.png        可选：设置与商店列表里画的那张方形头像
+assets/pets/<style>/lines.json      可选：这个角色说什么
 ```
 
 九张状态图全部必需。它们必须是共享同一画布的透明 RGBA PNG；内置形象用的是 238 × 238。
+
+`logo.png` 是可选的，但它是唯一会改变列表外观的可选文件：**有它就直接画它**（正方形胸像，建议 256 × 256、最小 128），没有才从 `idle.png` 里按固定方块裁一张脸。规则与切图工具见主程序仓库的 [`skins/PUBLISHING.md`](https://github.com/GoldenMoon-cell/BalancePet/blob/main/skins/PUBLISHING.md)。
 
 资源包永远不会被执行。主程序只读 PNG 和清单，别的什么都不读，所以包里不可能有代码；也不
 限定画风、配色或角色方向 —— 只要求上面这份文件契约。
